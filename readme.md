@@ -1,7 +1,7 @@
 # BAM Filters
 
 * A growing list of angular filters that are dynamic enough to support nested Json data structures. 
-* Built and tested using Angular v 1.2.2
+* Compatible with Angular v1.2.2+ 
 
 ## Getting Started
 
